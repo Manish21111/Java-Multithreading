@@ -2,7 +2,7 @@ package net.codejava.multithreading;
 
 import java.util.LinkedList;
 
-public class ProducerConsumer
+public class ProducerConsumerGit
 {
     public static void main(String[] args)
                         throws InterruptedException
